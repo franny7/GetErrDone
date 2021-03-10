@@ -10,9 +10,10 @@ const App = () => {
     M.AutoInit();
   });
   return (
-  <div className='App'>Getting Err Done</div>
-  <h2>Whats up! This is my working branch</h2>
-  )
+    <div className='App'>
+      <h1>Getting Err Done</h1>
+    </div>
+  );
 };
 
 export default App;
