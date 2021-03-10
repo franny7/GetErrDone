@@ -9,7 +9,11 @@ const App = () => {
     // Init Materialize JS
     M.AutoInit();
   });
-  return <div className='App'>Getting Err Done</div>;
+  return (
+    <div className='App'>
+      <h1>Getting Err Done</h1>
+    </div>
+  );
 };
 
 export default App;
