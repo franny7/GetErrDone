@@ -1,0 +1,27 @@
+body {
+  font-family: 'Dancing Script', 'cursive';
+}
+
+.pad-10 {
+  padding: 10px;
+}
+
+.pad-20 {
+  padding: 20px;
+}
+
+.pad-30 {
+  padding: 30px;
+}
+
+.pad-40 {
+  padding: 40px;
+}
+
+h2 {
+  padding: 30px;
+}
+
+div h2 {
+  margin: 0px;
+}
