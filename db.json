@@ -1,47 +1,22 @@
 {
-  "errands": [
+  "goals": [
     {
       "id": 1,
-      "message": "Pick up dogs poop",
-      "urgent": false,
-      "date": "03-09-2021",
-      "creator": "Leslie Jordan"
+      "message": "Complete Udemy React course",
+      "complete": "03-09-2021",
+      "created": "02-11-2021"
     },
     {
       "id": 2,
-      "message": "Take car for an oil change",
-      "urgent": true,
-      "date": "03-09-2021",
-      "creator": "Francisco Martinez"
+      "message": "Get comfortable with algos",
+      "complete": "07-01-2021",
+      "created": "03-11-2021"
     },
     {
       "id": 3,
-      "message": "Buy tool set",
-      "urgent": false,
-      "date": "03-09-2021",
-      "creator": "Francisco Martinez"
-    }
-  ],
-  "creators": [
-    {
-      "id": 1,
-      "firstName": "Leslie",
-      "lastName": "Jordan"
-    },
-    {
-      "id": 2,
-      "firstName": "Francisco",
-      "lastName": "Martinez"
-    },
-    {
-      "firstName": "Luis",
-      "lastName": "Inzunza",
-      "id": 3
-    },
-    {
-      "firstName": "Paulina",
-      "lastName": "Robles",
-      "id": 4
+      "message": "Apply to Jobs",
+      "complete": "09-30-2021",
+      "created": "03-11-2021"
     }
   ]
 }
